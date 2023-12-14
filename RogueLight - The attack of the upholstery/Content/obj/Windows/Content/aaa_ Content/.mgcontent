@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingDown.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingDownLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingDownRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingUp.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingUpLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Enemy_LookingUpRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Health_HeartEmpty.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Health_HeartFull.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Menu_MainMenuBackground.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Menu_MainMenuButton.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Misc_Gradient.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Misc_RoomHighlight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/MouseCursor.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Music_Death.ogg</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Music_MainMenu.ogg</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Music_MainTheme.ogg</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingDown.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingDownLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingDownRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingUp.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingUpLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Player_LookingUpRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Projectile_Arrow.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Projectile_Bullet.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Room_Door.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Room_Empty.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/Weapon_LongestBow.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/aaa_ Content/YouDiedBar.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

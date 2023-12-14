@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/MouseCursor.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingDown.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingDownLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingDownRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingRight.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingUp.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingUpLeft.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/RogueLight/RogueLight - The attack of the upholstery/Content/Player_LookingUpRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

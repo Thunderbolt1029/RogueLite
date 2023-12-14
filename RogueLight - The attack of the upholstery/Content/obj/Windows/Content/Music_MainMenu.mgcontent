@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/T0080547/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/FINAL NEA ish - THIS ONE ROB/RogueLight/RogueLight - The attack of the upholstery/Content/Music_MainMenu.ogg</SourceFile>
+  <SourceTime>2023-05-12T11:41:32+01:00</SourceTime>
+  <DestFile>C:/Users/T0080547/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/FINAL NEA ish - THIS ONE ROB/RogueLight/RogueLight - The attack of the upholstery/Content/bin/Windows/Content/Music_MainMenu.xnb</DestFile>
+  <DestTime>2023-12-01T11:22:42.3011396+00:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/T0080547/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/FINAL NEA ish - THIS ONE ROB/RogueLight/RogueLight - The attack of the upholstery/Content/bin/Windows/Content/Music_MainMenu.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

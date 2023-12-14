@@ -1,0 +1,49 @@
+
+<---------- NOT DONE 👎 ---------->
+
+--- actually need to do these ---
+More pickups - 5-7 level 2, 3 level 3
+More weapons - just whip left
+2 more end of level bosses
+Unlocking weapons and characters
+
+--- should probably ---
+Comments
+
+--- polishing ---
+Make save games screen look better
+remove placeholder textures
+make pause menu look better
+make most stuff look better ngl
+
+--- if i get time ---
+Hades - pact of punishment - maybe ? if i get time
+
+More enemies - if i get pact of punishment & if i get time {
+	some kind of floor placement kinda thing - a bit like the mobile doom ice guys
+}
+
+Secret rooms? - probs not
+
+
+<----- DONE 👍 ----->
+
+Point to pixel collisions - too slow after testing so has been removed
+
+Load from sql database for savegames
+Room ratio / size being the same no matter the size of display
+Mimic Room
+Chest Room
+Shop room
+More enemies {
+	Guard - patrol, charge
+}
+A* Pathfinding
+some kind of lobby room
+Game over screen with run stats
+pause menu
+Boss fights - fsm
+Player stats dynamically change
+lobby room where you can change characters
+be able to change weapons in lobby
+leaderboard for past runs

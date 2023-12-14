@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/T0080547/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/Content/Font_Papyrus.spritefont</SourceFile>
+  <SourceTime>2023-09-28T14:00:48.1275189+01:00</SourceTime>
+  <DestFile>C:/Users/T0080547/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/NEA Stuff/RogueLight/RogueLight - The attack of the upholstery/Content/bin/Windows/Font_Papyrus.xnb</DestFile>
+  <DestTime>2023-09-28T14:25:52.9837399+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

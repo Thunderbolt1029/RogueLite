@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0162: Unreachable code detected
+dotnet_diagnostic.CS0162.severity = silent
+
+# IDE0011: Add braces
+csharp_prefer_braces = when_multiline

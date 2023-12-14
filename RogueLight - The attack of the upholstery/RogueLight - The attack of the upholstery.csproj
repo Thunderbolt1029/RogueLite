@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3A13E205-F5E9-4341-B88D-2B5E042D0654}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RogueLight___The_attack_of_the_upholstery</RootNamespace>
+    <AssemblyName>RogueLight - The attack of the upholstery</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AStar\AStar.cs" />
+    <Compile Include="AStar\Tile.cs" />
+    <Compile Include="AStar\TilePath.cs" />
+    <Compile Include="Components\AnimatedText.cs" />
+    <Compile Include="Components\Animation.cs" />
+    <Compile Include="Components\Button.cs" />
+    <Compile Include="Components\Component.cs" />
+    <Compile Include="Components\EntryBox.cs" />
+    <Compile Include="Components\NotificationPopup.cs" />
+    <Compile Include="Entities\Bosses\Boss.cs" />
+    <Compile Include="Entities\Bosses\Mimic.cs" />
+    <Compile Include="Entities\Bosses\NailedCloth.cs" />
+    <Compile Include="Entities\Enemies\SpawnerEnemy.cs" />
+    <Compile Include="Entities\Enemies\GuardEnemy.cs" />
+    <Compile Include="Entities\Projectiles\EnergyBall.cs" />
+    <Compile Include="Entities\Projectiles\MeleeWeapon.cs" />
+    <Compile Include="Entities\Projectiles\Nail.cs" />
+    <Compile Include="Entities\RoomRelated\Chest.cs" />
+    <Compile Include="Entities\RoomRelated\Portal.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 1\ReloadTimeBoost.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 1\DashReloadTimeBoost.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 1\DashDistanceBoost.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 1\DodgeChanceBoost.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 1\DamageBoost.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 1\DodgeReloadTimeBoost.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 1\MoveSpeedBoost.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 2\HealthContainer.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 2\HeartContainer.cs" />
+    <Compile Include="Pickups\Regular Pickups\Level 3\LifeSteal.cs" />
+    <Compile Include="Pickups\Special Pickups\BossCoin.cs" />
+    <Compile Include="Pickups\BuyableItem.cs" />
+    <Compile Include="Pickups\Special Pickups\Heart.cs" />
+    <Compile Include="Pickups\Pickup.cs" />
+    <Compile Include="Enums Structs\CharacterType.cs" />
+    <Compile Include="Enums Structs\Character.cs" />
+    <Compile Include="Enums Structs\Run.cs" />
+    <Compile Include="Enums Structs\WeaponType.cs" />
+    <Compile Include="Font.cs" />
+    <Compile Include="Entities\Enemies\RandomMoverShooterEnemy.cs" />
+    <Compile Include="Entities\Projectiles\Arrow.cs" />
+    <Compile Include="Entities\Projectiles\Bullet.cs" />
+    <Compile Include="Entities\Projectiles\Projectile.cs" />
+    <Compile Include="Enums Structs\EnemyType.cs" />
+    <Compile Include="Enums Structs\GameState.cs" />
+    <Compile Include="Enums Structs\MoveDirection.cs" />
+    <Compile Include="Sounds.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="Upgrades.cs" />
+    <Compile Include="Weapons\Single Handed Weapons\Pistol.cs" />
+    <Compile Include="Weapons\Single Handed Weapons\Dagger.cs" />
+    <Compile Include="Weapons\Two Handed Weapons\Axe.cs" />
+    <Compile Include="Weapons\Two Handed Weapons\Staff.cs" />
+    <Compile Include="Weapons\Two Handed Weapons\Bow.cs" />
+    <Compile Include="Weapons\SingleHandedWeapon.cs" />
+    <Compile Include="Weapons\TwoHandedWeapon.cs" />
+    <Compile Include="Weapons\Weapon.cs" />
+    <Compile Include="Enums Structs\DoorType.cs" />
+    <Compile Include="Enums Structs\ControlScheme.cs" />
+    <Compile Include="Entities\RoomRelated\Door.cs" />
+    <Compile Include="Entities\Enemies\Enemy.cs" />
+    <Compile Include="Entities\Entity.cs" />
+    <Compile Include="Enums Structs\ProjectileType.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="Entities\Player.cs" />
+    <Compile Include="Enums Structs\SpriteType.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Enums Structs\RoomType.cs" />
+    <Compile Include="Entities\Enemies\SwarmerEnemy.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\lib\net45\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.117.0\lib\net45\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.117.0\lib\net45\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+    <Content Include="ToDoList.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="App.config" />
+    <None Include="app.manifest" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net45\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net45\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net45\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net45\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,32 @@
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\RogueLight - The attack of the upholstery.exe
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\RogueLight - The attack of the upholstery.pdb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\obj\x86\Debug\RogueLight - The attack of the upholstery.csproj.AssemblyReference.cache
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\obj\x86\Debug\RogueLight - The attack of the upholstery.csproj.CoreCompileInputs.cache
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\obj\x86\Debug\RogueLight - The attack of the upholstery.csproj.CopyComplete
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\obj\x86\Debug\RogueLight - The attack of the upholstery.exe
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\obj\x86\Debug\RogueLight - The attack of the upholstery.pdb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingDown.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingLeft.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingRight.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingUp.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingDownLeft.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingDownRight.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingUpRight.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\Player_LookingUpLeft.xnb
+C:\Users\zacat\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\RogueLight\RogueLight - The attack of the upholstery\bin\Windows\x86\Debug\Content\MouseCursor.xnb

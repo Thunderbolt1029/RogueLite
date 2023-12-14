@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueLight - The attack of the upholstery", "RogueLight - The attack of the upholstery\RogueLight - The attack of the upholstery.csproj", "{3A13E205-F5E9-4341-B88D-2B5E042D0654}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4AE722E4-4348-4A55-846E-C3CBF01515B5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Space", "Testing Space\Testing Space.csproj", "{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A13E205-F5E9-4341-B88D-2B5E042D0654}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{3A13E205-F5E9-4341-B88D-2B5E042D0654}.Debug|x86.ActiveCfg = Debug|x86
+		{3A13E205-F5E9-4341-B88D-2B5E042D0654}.Debug|x86.Build.0 = Debug|x86
+		{3A13E205-F5E9-4341-B88D-2B5E042D0654}.Release|Any CPU.ActiveCfg = Release|x86
+		{3A13E205-F5E9-4341-B88D-2B5E042D0654}.Release|x86.ActiveCfg = Release|x86
+		{3A13E205-F5E9-4341-B88D-2B5E042D0654}.Release|x86.Build.0 = Release|x86
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Debug|x86.Build.0 = Debug|Any CPU
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Release|x86.ActiveCfg = Release|Any CPU
+		{29B381F2-E3BC-4749-83E4-761FF4EB1BF7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D17E960-D092-47AC-A4EE-8718C0AE844F}
+	EndGlobalSection
+EndGlobal
